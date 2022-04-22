@@ -33,11 +33,12 @@ export default {
     "@nuxt/image",
     // https://go.nuxtjs.dev/tailwindcss
     "@nuxtjs/tailwindcss",
+
+    "@nuxtjs/pwa",
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    "@nuxtjs/pwa",
     // https://go.nuxtjs.dev/axios
     "@nuxtjs/axios",
     // https://go.nuxtjs.dev/pwa
@@ -70,12 +71,11 @@ export default {
       lang: "es",
       theme_color: "white",
       start_url: "/",
-      icons: ["static/favicon.png"],
+      icons: ["static/icon.png"],
     },
-  },
-
-  server: {
-    host: "0",
+    workbox: {
+      enabled: true,
+    },
   },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
