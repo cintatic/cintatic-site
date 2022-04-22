@@ -67,6 +67,7 @@ export default {
     manifest: {
       lang: "en",
       theme_color: "white",
+      start_url: "https://cintatic.com",
     },
   },
 
