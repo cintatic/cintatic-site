@@ -29,6 +29,7 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    //"@nuxtjs/google-fonts",
     "@nuxt/image",
     // https://go.nuxtjs.dev/tailwindcss
     "@nuxtjs/tailwindcss",
@@ -43,6 +44,15 @@ export default {
     // https://go.nuxtjs.dev/content
     "@nuxt/content",
   ],
+
+  /*
+  googleFonts: {
+    families: {
+      Montserrat: true,
+    },
+    display: "swap",
+  },
+  */
 
   plugins: ["@/plugins/aos.client"],
 
