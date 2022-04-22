@@ -24,7 +24,7 @@ jobs:
         run: yarn
 
       - name: Generate
-        run: yarn generate
+        run: yarn generate --modern
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
