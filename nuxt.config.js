@@ -37,10 +37,10 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    "@nuxtjs/pwa",
     // https://go.nuxtjs.dev/axios
     "@nuxtjs/axios",
     // https://go.nuxtjs.dev/pwa
-    "@nuxtjs/pwa",
     // https://go.nuxtjs.dev/content
     "@nuxt/content",
   ],
@@ -65,9 +65,12 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
+      name: "CINTATIC",
+      short_name: "CINTATIC",
       lang: "es",
       theme_color: "white",
-      start_url: "https://cintatic.com",
+      start_url: "/",
+      icons: ["static/favicon.png"],
     },
   },
 
