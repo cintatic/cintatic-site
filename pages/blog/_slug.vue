@@ -23,7 +23,7 @@
           </h1>
         </div>
         <p class="text-gray-500 italic">{{ article.description }}</p>
-        <NuxtImg class="py-8" :src="article.image" />
+        <NuxtImg loading="lazy" class="py-8" :src="article.image" />
       </div>
       <div class="container w-full md:max-w-3xl mx-auto">
         <div

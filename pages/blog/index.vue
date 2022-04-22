@@ -30,6 +30,7 @@
           >
             <div class="bg-gray-101 p-6 rounded-lg">
               <NuxtImg
+                loading="lazy"
                 class="h-41 rounded w-full object-cover object-center mb-6"
                 :src="article.image"
                 alt="content"
