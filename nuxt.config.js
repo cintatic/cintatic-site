@@ -54,7 +54,7 @@ export default {
   },
   */
 
-  plugins: ["@/plugins/aos.client"],
+  //plugins: ["@/plugins/aos.client"],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {

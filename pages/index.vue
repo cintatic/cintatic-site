@@ -12,25 +12,17 @@
               class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12"
             >
               <h1
-                data-aos="fade-in"
-                data-aos-duration="1000"
-                aos-delay="1000"
                 class="max-w-lg mb-6 font-bold text-5xl md:text-6xl leading-none tracking-tight text-white md:mx-auto"
               >
                 Impúlsate con un sitio web
               </h1>
-              <p
-                data-aos="fade-in"
-                data-aos-duration="1000"
-                aos-delay="1000"
-                class="text-base text-indigo-100 md:text-lg"
-              >
+              <p class="text-base text-indigo-100 md:text-lg">
                 Mejora tu idea o negocio con un rápido y atractivo sitio web que
                 tenemos para tí con todo lo que necesitas a un costo increíble
               </p>
             </div>
             <div>
-              <div data-aos="fade-in" data-aos-duration="1000" aos-delay="1000">
+              <div>
                 <a
                   href="https://api.whatsapp.com/send?phone=525628348062&text=%C2%A1Hola!%20Quisiera%20saber%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%20sus%20servicios."
                   class="sm:sr-only not-sr-only inline-flex items-center justify-center h-12 px-6 font-semibold tracking-wide text-gray-900 transition duration-200 rounded shadow-md hover:text-gray-100 bg-gray-100 hover:bg-gray-900 focus:outline-none"
@@ -56,29 +48,14 @@
     >
       <div class="flex flex-col lg:flex-row">
         <div class="max-w-xl pr-16 mx-auto mb-10">
-          <h1
-            data-aos="fade-up"
-            data-aos-duration="1000"
-            aos-delay="1000"
-            class="mb-6 text-3xl font-extrabold leading-none"
-          >
+          <h1 class="mb-6 text-3xl font-extrabold leading-none">
             Paga poco, recibe mucho.
           </h1>
-          <p
-            data-aos="fade-up"
-            data-aos-duration="1000"
-            aos-delay="1000"
-            class="mb-6 text-gray-900"
-          >
+          <p class="mb-6 text-gray-900">
             Píde el sitio web que necesitas sin invertir mucho, te ofrecemos la
             solución por un pequeño costo
           </p>
-          <div
-            data-aos="fade-up"
-            data-aos-duration="1000"
-            aos-delay="1000"
-            class="flex items-center"
-          >
+          <div class="flex items-center">
             <a
               href="tel:5628348062"
               class="sm:sr-only not-sr-only inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-gray-900 hover:bg-gray-100 hover:text-gray-900"
@@ -96,12 +73,7 @@
           </div>
         </div>
         <div class="grid gap-5 row-gap-5 sm:grid-cols-2">
-          <div
-            data-aos="fade-up"
-            data-aos-duration="1000"
-            aos-delay="1000"
-            class="max-w-md"
-          >
+          <div class="max-w-md">
             <div
               class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50"
             >
@@ -122,12 +94,7 @@
               lo que necesitas sin que rompas la alcancía.
             </p>
           </div>
-          <div
-            data-aos="fade-up"
-            data-aos-duration="1000"
-            aos-delay="1000"
-            class="max-w-md"
-          >
+          <div class="max-w-md">
             <div
               class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50"
             >
@@ -146,12 +113,7 @@
               estándares o pídelo y lo haremos
             </p>
           </div>
-          <div
-            data-aos="fade-up"
-            data-aos-duration="1000"
-            aos-delay="1000"
-            class="max-w-md"
-          >
+          <div class="max-w-md">
             <div
               class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50"
             >
@@ -172,12 +134,7 @@
               estabilidad y experiencia para tus usuarios
             </p>
           </div>
-          <div
-            data-aos="fade-up"
-            data-aos-duration="1000"
-            aos-delay="1000"
-            class="max-w-md"
-          >
+          <div class="max-w-md">
             <div
               class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50"
             >
@@ -201,9 +158,6 @@
     </div>
 
     <div
-      data-aos="fade-up"
-      data-aos-duration="1000"
-      aos-delay="1000"
       class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20"
     >
       <div
@@ -238,7 +192,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="1000" aos-delay="1000">
+            <div>
               <h1 class="mb-3 text-xl font-bold leading-5">SEO</h1>
               <p class="text-sm text-gray-900">
                 Posicionamos tu sitio en los motores de búsqueda para que te
@@ -261,7 +215,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="1000" aos-delay="1000">
+            <div>
               <h1 class="mb-3 text-xl font-bold leading-5">SSL ilimtado</h1>
               <p class="text-sm text-gray-900">
                 Certificado SSL por siempre, aseguramos la conexión de tus
@@ -284,7 +238,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="1000" aos-delay="1000">
+            <div>
               <h1 class="mb-3 text-xl font-bold leading-5">Animación</h1>
               <p class="text-sm text-gray-900">
                 Le agregamos unas animaciones básicas a tus secciones para
@@ -309,7 +263,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="1000" aos-delay="1000">
+            <div>
               <h1 class="mb-3 text-xl font-bold leading-5">Rapidez</h1>
               <p class="text-sm text-gray-900">
                 Tenemos que aceptarlo, nuestas páginas son rápidas. En un
@@ -332,7 +286,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="1000" aos-delay="1000">
+            <div>
               <h1 class="mb-3 text-xl font-bold leading-5">Redes sociales</h1>
               <p class="text-sm text-gray-900">
                 Enlazamos tu sitio con la red social que necesites para el mejor
@@ -355,7 +309,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="1000" aos-delay="1000">
+            <div>
               <h1 class="mb-3 text-xl font-bold leading-5">
                 Un año de dominio
               </h1>
@@ -410,9 +364,6 @@
     -->
 
     <div
-      data-aos="fade-up"
-      data-aos-duration="1000"
-      aos-delay="1000"
       class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20"
     >
       <div class="max-w-screen-sm sm:text-center sm:mx-auto">
@@ -437,12 +388,7 @@
         >
           Entendemos que tienes dudas
         </h2>
-        <p
-          data-aos="fade-up"
-          data-aos-duration="1000"
-          aos-delay="1000"
-          class="text-base text-gray-700 md:text-lg sm:px-4"
-        >
+        <p class="text-base text-gray-700 md:text-lg sm:px-4">
           Márcanos o envíanos un mensaje y estaremos listos para atenderte y
           ofrecerte lo que necesitas, estás a un solo paso de tomar una
           excelente decisión
@@ -451,11 +397,7 @@
       </div>
     </div>
 
-    <SocialBanner
-      data-aos="fade-up"
-      data-aos-duration="1000"
-      aos-delay="1000"
-    />
+    <SocialBanner />
   </div>
 </template>
 
