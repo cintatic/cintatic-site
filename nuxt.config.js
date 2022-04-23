@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "CINTATIC",
+    title: "CINTATIC - Tu sitio web ahora",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -33,12 +33,11 @@ export default {
     "@nuxt/image",
     // https://go.nuxtjs.dev/tailwindcss
     "@nuxtjs/tailwindcss",
-
-    "@nuxtjs/pwa",
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    "@nuxtjs/pwa",
     // https://go.nuxtjs.dev/axios
     "@nuxtjs/axios",
     // https://go.nuxtjs.dev/pwa
@@ -70,11 +69,7 @@ export default {
       short_name: "CINTATIC",
       lang: "es",
       theme_color: "white",
-      start_url: "/",
       icons: ["static/icon.png"],
-    },
-    workbox: {
-      enabled: true,
     },
   },
 
@@ -84,6 +79,7 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     extractCss: true,
+    /*
     optimization: {
       splitChunks: {
         chunks: "all",
@@ -92,6 +88,7 @@ export default {
         maxSize: 256000,
       },
     },
+    */
   },
 
   router: {},
