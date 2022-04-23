@@ -54,14 +54,6 @@ export default {
   },
   */
 
-  render: {
-    // Setting up cache for 'static' directory - a year in milliseconds
-    // https://web.dev/uses-long-cache-ttl
-    static: {
-      maxAge: 1000 * 60 * 60 * 24 * 7,
-    },
-  },
-
   //plugins: ["@/plugins/aos.client"],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
