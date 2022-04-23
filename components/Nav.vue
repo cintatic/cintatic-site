@@ -2,7 +2,7 @@
   <div>
     <div
       data-aos="fade-in"
-      data-aos-duration="2000"
+      aos-delay="1000"
       aos-delay="1000"
       class="z-50 fixed w-full bg-white backdrop-filter backdrop-blur-xl bg-opacity-60 shadow"
     >

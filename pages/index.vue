@@ -13,7 +13,7 @@
             >
               <h1
                 data-aos="fade-in"
-                data-aos-duration="2000"
+                aos-delay="1000"
                 aos-delay="1000"
                 class="max-w-lg mb-6 font-bold text-5xl md:text-6xl leading-none tracking-tight text-white md:mx-auto"
               >
@@ -21,7 +21,7 @@
               </h1>
               <p
                 data-aos="fade-in"
-                data-aos-duration="2000"
+                aos-delay="1000"
                 aos-delay="1000"
                 class="text-base text-indigo-100 md:text-lg"
               >
@@ -30,7 +30,7 @@
               </p>
             </div>
             <div>
-              <div data-aos="fade-in" data-aos-duration="2000" aos-delay="1000">
+              <div data-aos="fade-in" aos-delay="1000" aos-delay="1000">
                 <a
                   href="https://api.whatsapp.com/send?phone=525628348062&text=%C2%A1Hola!%20Quisiera%20saber%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%20sus%20servicios."
                   class="sm:sr-only not-sr-only inline-flex items-center justify-center h-12 px-6 font-semibold tracking-wide text-gray-900 transition duration-200 rounded shadow-md hover:text-gray-100 bg-gray-100 hover:bg-gray-900 focus:outline-none"
@@ -58,7 +58,7 @@
         <div class="max-w-xl pr-16 mx-auto mb-10">
           <h1
             data-aos="fade-up"
-            data-aos-duration="2000"
+            aos-delay="1000"
             aos-delay="1000"
             class="mb-6 text-3xl font-extrabold leading-none"
           >
@@ -66,7 +66,7 @@
           </h1>
           <p
             data-aos="fade-up"
-            data-aos-duration="2000"
+            aos-delay="1000"
             aos-delay="1000"
             class="mb-6 text-gray-900"
           >
@@ -75,7 +75,7 @@
           </p>
           <div
             data-aos="fade-up"
-            data-aos-duration="2000"
+            aos-delay="1000"
             aos-delay="1000"
             class="flex items-center"
           >
@@ -98,7 +98,7 @@
         <div class="grid gap-5 row-gap-5 sm:grid-cols-2">
           <div
             data-aos="fade-up"
-            data-aos-duration="2000"
+            aos-delay="1000"
             aos-delay="1000"
             class="max-w-md"
           >
@@ -124,7 +124,7 @@
           </div>
           <div
             data-aos="fade-up"
-            data-aos-duration="2000"
+            aos-delay="1000"
             aos-delay="1000"
             class="max-w-md"
           >
@@ -148,7 +148,7 @@
           </div>
           <div
             data-aos="fade-up"
-            data-aos-duration="2000"
+            aos-delay="1000"
             aos-delay="1000"
             class="max-w-md"
           >
@@ -174,7 +174,7 @@
           </div>
           <div
             data-aos="fade-up"
-            data-aos-duration="2000"
+            aos-delay="1000"
             aos-delay="1000"
             class="max-w-md"
           >
@@ -202,7 +202,7 @@
 
     <div
       data-aos="fade-up"
-      data-aos-duration="2000"
+      data-aos-duration="1000"
       aos-delay="1000"
       class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20"
     >
@@ -238,7 +238,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="2000" aos-delay="1000">
+            <div data-aos="fade-up" aos-delay="1000" aos-delay="1000">
               <h1 class="mb-3 text-xl font-bold leading-5">SEO</h1>
               <p class="text-sm text-gray-900">
                 Posicionamos tu sitio en los motores de búsqueda para que te
@@ -261,7 +261,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="2000" aos-delay="1000">
+            <div data-aos="fade-up" aos-delay="1000" aos-delay="1000">
               <h1 class="mb-3 text-xl font-bold leading-5">SSL ilimtado</h1>
               <p class="text-sm text-gray-900">
                 Certificado SSL por siempre, aseguramos la conexión de tus
@@ -284,7 +284,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="2000" aos-delay="1000">
+            <div data-aos="fade-up" aos-delay="1000" aos-delay="1000">
               <h1 class="mb-3 text-xl font-bold leading-5">Animación</h1>
               <p class="text-sm text-gray-900">
                 Le agregamos unas animaciones básicas a tus secciones para
@@ -309,7 +309,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="2000" aos-delay="1000">
+            <div data-aos="fade-up" aos-delay="1000" aos-delay="1000">
               <h1 class="mb-3 text-xl font-bold leading-5">Rapidez</h1>
               <p class="text-sm text-gray-900">
                 Tenemos que aceptarlo, nuestas páginas son rápidas. En un
@@ -332,7 +332,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="2000" aos-delay="1000">
+            <div data-aos="fade-up" aos-delay="1000" aos-delay="1000">
               <h1 class="mb-3 text-xl font-bold leading-5">Redes sociales</h1>
               <p class="text-sm text-gray-900">
                 Enlazamos tu sitio con la red social que necesites para el mejor
@@ -355,7 +355,7 @@
                 />
               </div>
             </div>
-            <div data-aos="fade-up" data-aos-duration="2000" aos-delay="1000">
+            <div data-aos="fade-up" aos-delay="1000" aos-delay="1000">
               <h1 class="mb-3 text-xl font-bold leading-5">
                 Un año de dominio
               </h1>
@@ -411,7 +411,7 @@
 
     <div
       data-aos="fade-up"
-      data-aos-duration="2000"
+      aos-delay="1000"
       aos-delay="1000"
       class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20"
     >
@@ -439,7 +439,7 @@
         </h2>
         <p
           data-aos="fade-up"
-          data-aos-duration="2000"
+          aos-delay="1000"
           aos-delay="1000"
           class="text-base text-gray-700 md:text-lg sm:px-4"
         >
@@ -451,11 +451,7 @@
       </div>
     </div>
 
-    <SocialBanner
-      data-aos="fade-up"
-      data-aos-duration="2000"
-      aos-delay="1000"
-    />
+    <SocialBanner data-aos="fade-up" aos-delay="1000" aos-delay="1000" />
   </div>
 </template>
 
