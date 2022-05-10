@@ -22,6 +22,11 @@ export default {
         content:
           "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/og-image.png",
       },
+      {
+        hid: "fb-app_id",
+        property: "fb-app_id",
+        content: "1174627266634113",
+      },
       { hid: "og-url", property: "og:url", content: "https://cintatic.com" },
 
       { charset: "utf-8" },
@@ -102,7 +107,7 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     extractCss: true,
-    /*
+    /*fb:app_id
     optimization: {
       splitChunks: {
         chunks: "all",
