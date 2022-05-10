@@ -30,6 +30,7 @@ export default {
       },
       {
         name: "og:image",
+        property: "og:image",
         hid: "og:image",
         content:
           "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/fb/og-image.png",
