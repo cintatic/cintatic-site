@@ -9,20 +9,20 @@ export default {
       {
         name: "og:title",
         property: "og:title",
-        hid: "og-title",
+        hid: "og:title",
         content: "CINTATIC - Digitalízate ahora",
       },
       {
         name: "og:site_name",
         property: "og:site_name",
-        hid: "og-site_name",
+        hid: "og:site_name",
         content: "CINTATIC - Digitalízate ahora",
       },
 
       {
         name: "og:type",
         property: "og:type",
-        hid: "og-type",
+        hid: "og:type",
         content: "website",
       },
 
@@ -35,7 +35,7 @@ export default {
         property: "og:image",
         hid: "og-image",
         content:
-          "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/og-image.png",
+          "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/fb/og-image.png",
       },
       {
         property: "fb:app_id",
