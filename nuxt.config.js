@@ -30,17 +30,17 @@ export default {
       },
       {
         name: "og:image",
-        hid: "og-image",
+        hid: "og:image",
         content:
           "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/fb/og-image.png",
       },
       {
         name: "fb:app_id",
-        hid: "fb-app_id",
+        hid: "fb:app_id",
         content: "1174627266634113",
       },
       {
-        hid: "og-url",
+        hid: "og:url",
         name: "og:url",
         content: "https://cintatic.com",
       },
