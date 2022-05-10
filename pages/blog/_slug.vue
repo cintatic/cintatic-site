@@ -60,6 +60,44 @@ export default {
       article,
     };
   },
+  head() {
+    return {
+      title: this.article.title,
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: this.article.description,
+        },
+        {
+          hid: "og:title",
+          property: "og:title",
+          content: this.article.title,
+        },
+        {
+          hid: "og:site_name",
+          property: "og:site_name",
+          content: "CINTATIC",
+        },
+
+        {
+          hid: "og:type",
+          property: "og:type",
+          content: "website",
+        },
+        {
+          hid: "og:image",
+          property: "og:image",
+          content: this.article.imageog,
+        },
+        {
+          hid: "og:url",
+          property: "og:url",
+          content: "cintatic.com",
+        },
+      ],
+    };
+  },
   methods: {
     formatDate(date) {
       const options = { year: "numeric", month: "long", day: "numeric" };

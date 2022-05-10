@@ -1,7 +1,8 @@
 ---
 title: "¿Cómo te ayuda un sitio web?"
 description: "En pleno 2021 tener un negocio y no tener sitio web podría significar no tener negocio"
-image: "/blog/internet.jpg"
+image: "/blog/comoteayudaunsitio.svg"
+imageog: "/blog/comoteayudaunsitio.png"
 slug: "como-te-ayuda-un-sitio"
 ---
 
