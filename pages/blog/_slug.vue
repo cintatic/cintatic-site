@@ -66,7 +66,7 @@ export default {
       meta: [
         {
           hid: "og:description-blog",
-          name: "og:description",
+          property: "og:description",
           content: this.article.description,
         },
         {
