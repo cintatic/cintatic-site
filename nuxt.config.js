@@ -19,7 +19,8 @@ export default {
       {
         hid: "og-image",
         property: "og:image",
-        content: "/static/og-image.png",
+        content:
+          "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/og-image.png",
       },
       { hid: "og-url", property: "og:url", content: "https://cintatic.com" },
 
