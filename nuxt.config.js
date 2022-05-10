@@ -22,7 +22,7 @@ export default {
       {
         name: "og:type",
         property: "og:type",
-        hid: "og-title",
+        hid: "og-type",
         content: "website",
       },
 
