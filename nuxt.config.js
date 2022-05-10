@@ -7,16 +7,8 @@ export default {
     title: "CINTATIC - Digitalízate ahora",
     meta: [
       {
-        property: "og:type",
-        content: "website",
-      },
-      {
-        property: "og:site-name",
-        content: "CINTATIC.COM",
-      },
-      {
         property: "og:title",
-        //hid: "og-title",
+        hid: "og-title",
         content: "CINTATIC - Digitalízate ahora",
       },
       {

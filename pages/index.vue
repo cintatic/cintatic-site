@@ -403,12 +403,25 @@
 
 <script>
 export default {
-  /*
-  computed: {
-    availableLocales() {
-      return this.$i18n.locales.filter((i) => i.code !== this.$i18n.locale)
-    },
+  head: {
+    meta: [
+      {
+        hid: "og-title",
+        property: "og:title",
+        content: "CINTATIC - Digtalízate ahora",
+      },
+      {
+        hid: "og-type",
+        property: "og:type",
+        content: "website",
+      },
+
+      {
+        hid: "og-site_name",
+        property: "og:site_name",
+        content: "CINTATIC",
+      },
+    ],
   },
-  */
 };
 </script>
