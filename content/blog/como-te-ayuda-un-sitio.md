@@ -1,8 +1,8 @@
 ---
 title: "¿Cómo te ayuda un sitio web?"
 description: "En pleno 2021 tener un negocio y no tener sitio web podría significar no tener negocio"
-image: "/blog/comoteayudaunsitio.svg"
-imageog: "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/blog/comoteayudaunsitio.png"
+image: "/blog/comoteayudaunsitioweb.svg"
+imageog: "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/blog/comoteayudaunsitioweb.png"
 slug: "como-te-ayuda-un-sitio"
 ---
 
