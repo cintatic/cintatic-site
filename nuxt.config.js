@@ -4,8 +4,25 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "CINTATIC - Tu sitio web ahora",
+    title: "CINTATIC - Digitalízate ahora",
     meta: [
+      {
+        hid: "og-title",
+        property: "og:title",
+        content: "CINTATIC - Digitalízate ahora",
+      },
+      {
+        hid: "og-desc",
+        property: "og:description",
+        content: "Encárgate de lo que te gusta y nosotros de la tecnología.",
+      },
+      {
+        hid: "og-image",
+        property: "og:image",
+        content: "/static/og-image.png",
+      },
+      { hid: "og-url", property: "og:url", content: "https://cintatic.com" },
+
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       {
