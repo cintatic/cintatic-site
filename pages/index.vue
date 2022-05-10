@@ -1,10 +1,5 @@
 <template>
   <div>
-    <head>
-      <meta property="og:title" content="CINTATIC - Digitalízate ahora" />
-      <meta property="og:site_name" content="CINTATIC" />
-      <meta property="og:type" content="website" />
-    </head>
     <!--Hero -->
 
     <div class="bg-gray-900">
