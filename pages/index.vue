@@ -1,5 +1,10 @@
 <template>
   <div>
+    <head>
+      <meta property="og:title" content="CINTATIC - Digitalízate ahora" />
+      <meta property="og:site_name" content="CINTATIC" />
+      <meta property="og:type" content="website" />
+    </head>
     <!--Hero -->
 
     <div class="bg-gray-900">
@@ -400,28 +405,3 @@
     <SocialBanner />
   </div>
 </template>
-
-<script>
-export default {
-  head: {
-    meta: [
-      {
-        hid: "og-title",
-        property: "og:title",
-        content: "CINTATIC - Digtalízate ahora",
-      },
-      {
-        hid: "og-type",
-        property: "og:type",
-        content: "website",
-      },
-
-      {
-        hid: "og-site_name",
-        property: "og:site_name",
-        content: "CINTATIC",
-      },
-    ],
-  },
-};
-</script>
