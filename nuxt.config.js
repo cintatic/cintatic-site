@@ -14,6 +14,11 @@ export default {
         content:
           "Impúlsate con un sitio web hecho a tu medidia, rápido, atractivo y preparado para lo que necesites",
       },
+      {
+        name: "facebook-domain-verification",
+        content: "hynedflc7p4ze9jz1v1p66rvgdtgcu",
+      },
+      { name: "keywords", content: "sitio web, pagina web" },
       { name: "format-detection", content: "telephone=no" },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "favicon.ico" }],
