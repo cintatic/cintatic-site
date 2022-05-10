@@ -32,7 +32,7 @@ export default {
         hid: "og:image",
         property: "og:image",
         content:
-          "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/fb/og-image.png",
+          "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/fb/image-og.png",
       },
       {
         hid: "fb:app_id",
