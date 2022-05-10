@@ -7,41 +7,41 @@ export default {
     title: "CINTATIC - Digitalízate ahora",
     meta: [
       {
-        property: "og:title",
+        name: "og:title",
         hid: "og:title",
         content: "CINTATIC - Digitalízate ahora",
       },
       {
-        property: "og:site_name",
+        name: "og:site_name",
         hid: "og:site_name",
         content: "CINTATIC - Digitalízate ahora",
       },
 
       {
-        property: "og:type",
+        name: "og:type",
         hid: "og:type",
         content: "website",
       },
 
       {
-        property: "og:description",
+        name: "og:description",
         hid: "og-desc",
         content: "Encárgate de lo que te gusta y nosotros de la tecnología.",
       },
       {
-        property: "og:image",
+        name: "og:image",
         hid: "og-image",
         content:
           "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/fb/og-image.png",
       },
       {
-        property: "fb:app_id",
+        name: "fb:app_id",
         hid: "fb-app_id",
         content: "1174627266634113",
       },
       {
         hid: "og-url",
-        property: "og:url",
+        name: "og:url",
         content: "https://cintatic.com",
       },
 
