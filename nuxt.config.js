@@ -90,6 +90,10 @@ export default {
     "@nuxt/content",
   ],
 
+  server: {
+    host: "0",
+  },
+
   /*
   googleFonts: {
     families: {

@@ -213,7 +213,9 @@
                             src="/icons/instagram-brands.svg"
                           />
                         </a>
-                        <a href="https://instagram.com/cintaticmx">
+                        <a
+                          href="https://api.whatsapp.com/send?phone=525628348062&text=%C2%A1Hola!%20Quisiera%20saber%20m%C3%A1s%20informaci%C3%B3n%20acerca%20de%20sus%20servicios."
+                        >
                           <NuxtImg
                             width="100"
                             height="100"
@@ -230,7 +232,7 @@
                             alt="Facebook"
                             loading="lazy"
                             class="mx-5 text-3xl w-8"
-                            src="/icons/facebook-brands.svg"
+                            src="/icons/phone-solid.svg"
                           />
                         </a>
                       </span>
