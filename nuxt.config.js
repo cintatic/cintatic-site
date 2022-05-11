@@ -81,6 +81,7 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    "vue-social-sharing/nuxt",
     "@nuxtjs/pwa",
     // https://go.nuxtjs.dev/axios
     "@nuxtjs/axios",

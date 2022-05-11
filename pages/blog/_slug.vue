@@ -33,9 +33,48 @@
           </h1>
         </div>
         <h2 class="text-gray-700 italic pb-2">{{ article.description }}</h2>
-        <span class="text-gray-600 text-base">{{
-          formatDate(article.updatedAt)
-        }}</span>
+        <span class="flex text-gray-600 text-base">
+          {{ formatDate(article.updatedAt) }}
+
+          <ShareNetwork
+            network="facebook"
+            :url="'https://cintatic.com/blog/' + article.slug"
+            :title="article.title"
+            :description="article.description"
+            :hashtags="article.hashtags"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="inline-block align-middle ml-3 text-3xl w-6 text-black hover:text-gray-600"
+              viewBox="0 0 512 512"
+              fill="currentColor"
+            >
+              <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+              <path
+                d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"
+              />
+            </svg>
+          </ShareNetwork>
+          <ShareNetwork
+            network="whatsapp"
+            :url="'https://cintatic.com/blog/' + article.slug"
+            :title="article.title"
+            :description="article.description"
+            :hashtags="article.hashtags"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="inline-block align-middle ml-3 text-3xl w-6 text-black hover:text-gray-600"
+              viewBox="0 0 512 512"
+              fill="currentColor"
+            >
+              <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+              <path
+                d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"
+              />
+            </svg>
+          </ShareNetwork>
+        </span>
         <NuxtImg loading="lazy" class="py-4" :src="article.image" />
       </div>
       <div class="container w-full md:max-w-3xl mx-auto">

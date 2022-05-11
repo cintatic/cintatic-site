@@ -4,11 +4,13 @@ description: "En pleno 2021 tener un negocio y no tener sitio web podría signif
 image: "/blog/teayudaunsitioweb.svg"
 imageog: "https://raw.githubusercontent.com/cintatic/cintatic-site/main/static/blog/teayudaunsitioweb.png"
 slug: "como-te-ayuda-un-sitio"
+hashtags: "sitioweb,cintatic,diseño"
 ---
 
-Hoy en día es muy común una página web, usamos diariamente sus servicios y se han convertido en una parte esencial de la sociedad moderna.
-</br>
-De hecho podrás darte cuenta que prácticamente cualquier empresa competitiva tiene un sito, y en caso de no tener... no existe.
+Hoy en día **es muy común una página web**, usamos diariamente sus servicios y se han convertido en una **parte esencial de la sociedad moderna**,
+de hecho podrás darte cuenta que prácticamente **cualquier empresa competitiva tiene un sito**, y en caso de no tener... **_no existe_**.
+
 <br>
-<br>
-Simplemente piensa, cuando requieres de un servicio o un producto lo primero que te llega a la mente es buscarlo por internet ¿o no?
+Cuando requieres de un servicio o un producto lo primero que te llega a la mente es buscarlo por internet ¿o no?
+
+Esa es una de las principales razones por las cuales tener **un sitio es conveniente** para casi _cualquier cosa_.
