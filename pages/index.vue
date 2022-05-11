@@ -364,22 +364,18 @@
     -->
 
     <div
-      class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20"
+      class="px-4 py-4 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-8"
     >
       <div class="max-w-screen-sm sm:text-center sm:mx-auto">
-        <a
-          href="/"
-          aria-label="View"
-          class="inline-block mb-5 rounded-full sm:mx-auto"
-        >
-          <div class="flex items-center justify-center w-16 h-16 mb-4">
+        <a href="/" aria-label="View" class="mb-5 rounded-full sm:mx-auto">
+          <div class="flex items-center justify-center mb-4">
             <NuxtImg
-              width="100"
-              height="100"
+              width="200"
+              height="200"
               alt="¿Preguntas?"
               loading="lazy"
-              class="text-2xl w-12"
-              src="/icons/question-solid.svg"
+              class="text-2xl w-52"
+              src="question.svg"
             />
           </div>
         </a>
@@ -393,7 +389,7 @@
           ofrecerte lo que necesitas, estás a un solo paso de tomar una
           excelente decisión
         </p>
-        <hr class="w-full mt-8 border-gray-300" />
+        <hr class="w-full mt-4 border-gray-300" />
       </div>
     </div>
 
