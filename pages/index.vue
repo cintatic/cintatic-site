@@ -396,3 +396,6 @@
     <SocialBanner />
   </div>
 </template>
+<script>
+this.$axios.setHeader("Cache-Control", 'max-age="31536000');
+</script>

@@ -81,6 +81,7 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    "nuxt-custom-headers",
     "vue-social-sharing/nuxt",
     "@nuxtjs/pwa",
     // https://go.nuxtjs.dev/axios
@@ -124,7 +125,6 @@ export default {
     },
   },
 
-  serverMiddleware: ["~/api/headers.js"], // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
