@@ -124,15 +124,7 @@ export default {
     },
   },
 
-  render: {
-    static: {
-      setHeaders(res) {
-        res.setHeader("Cache-Control", "public", "max-age=31536000");
-      },
-    },
-  },
-
-  // Content module configuration: https://go.nuxtjs.dev/config-content
+  serverMiddleware: ["~/api/headers.js"], // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
