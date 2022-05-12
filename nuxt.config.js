@@ -118,7 +118,7 @@ export default {
       short_name: "CINTATIC",
       lang: "es",
       theme_color: "white",
-      icons: ["static/icon.png"],
+      icons: ["static/icon-pwa.png"],
     },
   },
 
