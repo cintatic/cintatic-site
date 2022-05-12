@@ -120,7 +120,7 @@ export default {
       theme_color: "white",
     },
     icon: {
-      source: "icon-pwa.png",
+      fileName: "icon-pwa.png",
     },
   },
 
