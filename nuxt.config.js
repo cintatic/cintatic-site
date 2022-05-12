@@ -124,6 +124,14 @@ export default {
     },
   },
 
+  render: {
+    static: {
+      setHeaders(res) {
+        res.setHeader("Cache-Control: max-age=31536000");
+      },
+    },
+  },
+
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
 
