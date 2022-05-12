@@ -51,7 +51,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "Impúlsate con un sitio web hecho a tu medidia, rápido, atractivo y preparado para lo que necesites",
+          "Impúlsate con un sitio web hecho a tu medida, rápido, atractivo y preparado para lo que necesites",
       },
       {
         name: "facebook-domain-verification",
@@ -60,7 +60,7 @@ export default {
       { name: "keywords", content: "sitio web, pagina web" },
       { name: "format-detection", content: "telephone=no" },
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "favicon.ico" }],
+    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
