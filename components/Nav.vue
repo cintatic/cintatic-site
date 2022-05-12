@@ -13,7 +13,7 @@
                 to="/blog"
                 aria-label="Blog"
                 title="Blog"
-                class="font-bold tracking-wide text-gray-700 transition-colors duration-200"
+                class="font-bold text-lg tracking-wide text-gray-700 transition-colors duration-200"
                 >Blog</NuxtLink
               >
             </li>
@@ -22,7 +22,7 @@
                 to="/servicios"
                 aria-label="Servicios"
                 title="Servicios"
-                class="font-bold tracking-wide text-gray-700 transition-colors duration-200"
+                class="font-bold text-lg tracking-wide text-gray-700 transition-colors duration-200"
                 >Servicios</NuxtLink
               >
             </li>
@@ -34,7 +34,7 @@
             class="inline-flex items-center lg:mx-auto"
           >
             <NuxtImg
-              class="w-36"
+              class="w-40"
               width="200"
               height="100"
               alt="CINTATIC"
