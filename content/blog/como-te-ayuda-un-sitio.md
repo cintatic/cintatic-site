@@ -7,7 +7,9 @@ slug: "como-te-ayuda-un-sitio"
 hashtags: "sitioweb,cintatic,diseño"
 ---
 
-Hoy en día **es muy común una página web**, usamos diariamente sus servicios y se han convertido en una **parte esencial de la sociedad moderna**,
+Hoy en día es muy común una página web, <ins>**existen [200,674,843](https://siteefy.com/how-many-websites-are-there/) sitios activos**</ins>, y <ins>**diariamente se crean [252,000](https://siteefy.com/how-many-websites-are-there/)**</ins>. <br>
+<br>
+Usamos diariamente sus servicios y se han convertido en una **parte esencial de la sociedad moderna**,
 de hecho podrás darte cuenta que prácticamente **cualquier empresa competitiva tiene un sito**, y en caso de no tener... **_no existe_**.
 
 <br>

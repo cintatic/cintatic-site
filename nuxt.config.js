@@ -81,7 +81,6 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    "nuxt-custom-headers",
     "vue-social-sharing/nuxt",
     "@nuxtjs/pwa",
     // https://go.nuxtjs.dev/axios
@@ -107,10 +106,6 @@ export default {
   //plugins: ["@/plugins/aos.client"],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
-  axios: {
-    // Workaround to avoid enforcing hard-coded localhost:3000: https://github.com/nuxt-community/axios-module/issues/308
-    head: { "Cache-Control": 'max-age="31536000' },
-  },
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
