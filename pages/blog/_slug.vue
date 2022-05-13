@@ -55,7 +55,7 @@
             </a>
             <a
               aria-label="Whatsapp"
-              :href="`https://api.whatsapp.com/send?text=${article.title}%0D%0Ahttps://cintatic.com/blog/${article.title}%0D%0A${article.title}`"
+              :href="`https://api.whatsapp.com/send?text=${article.title}%0D%0Ahttps://cintatic.com/blog/${article.slug}%0D%0A${article.title}`"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
