@@ -81,7 +81,7 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    "vue-social-sharing/nuxt",
+    "@nuxtjs/google-gtag",
     "@nuxtjs/pwa",
     // https://go.nuxtjs.dev/axios
     "@nuxtjs/axios",
@@ -94,6 +94,10 @@ export default {
     host: "0",
   },
 
+  "google-gtag": {
+    id: "G-B9Y58N34ZR", // your measurement id
+  },
+
   /*
   googleFonts: {
     families: {
@@ -102,8 +106,6 @@ export default {
     display: "swap",
   },
   */
-
-  plugins: ["@/plugins/aos.client"],
 
   //plugins: ["@/plugins/aos.client"],
 
