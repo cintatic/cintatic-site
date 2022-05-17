@@ -53,7 +53,7 @@
           </h1>
           <p class="mb-6 text-gray-900">
             Píde el sitio web que necesitas sin invertir mucho, te ofrecemos la
-            solución por un pequeño costo
+            solución por un bajo costo
           </p>
           <div class="flex items-center">
             <a
@@ -382,10 +382,10 @@
         <h2
           class="mb-4 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none"
         >
-          Entendemos que tienes dudas
+          Entendemos, tienes dudas
         </h2>
         <p class="text-base text-gray-700 md:text-lg sm:px-4">
-          Márcanos o envíanos un mensaje y estaremos listos para atenderte y
+          Llamanos o envíanos un mensaje y estaremos listos para atenderte y
           ofrecerte lo que necesitas, estás a un solo paso de tomar una
           excelente decisión
         </p>
